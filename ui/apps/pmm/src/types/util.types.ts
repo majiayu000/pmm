@@ -5,3 +5,5 @@ export type DeepPartial<T> = {
 };
 
 export type SvgIconComponent = typeof SvgIcon;
+
+export type CodeLanguage = 'text' | 'mongodb';
