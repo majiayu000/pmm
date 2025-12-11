@@ -37,6 +37,9 @@ export const DYNAMIC_ICON_IMPORT_MAP = {
   'my-organization': () => import('icons/my-organization.svg?react'),
   memory: () => import('icons/memory.svg?react'),
   network: () => import('icons/network.svg?react'),
+  'bottom-panel-close': () => import('icons/bottom-panel-close.svg?react'),
+  'collapse-content': () => import('icons/collapse-content.svg?react'),
+  'expand-content': () => import('icons/expand-content.svg?react'),
 };
 
 export const VIEWBOX_MAP: Partial<
