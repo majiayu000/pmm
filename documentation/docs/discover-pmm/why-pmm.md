@@ -11,4 +11,4 @@ Percona Monitoring and Management (PMM) delivers:
 * **Centralized management** of multiple database instances across different hosts
 * **Active community support** with regular updates and improvements.
 
-![!PMM Home Screen](../images/Home_screen.jpg)
+![!PMM Home Screen](../images/Home_screen.png)

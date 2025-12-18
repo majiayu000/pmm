@@ -69,7 +69,8 @@ When you initiate an update in the UI with Podman:
     This method enables updates through the PMM web interface using Watchtower and systemd services. When you initiate an update in the UI, PMM Server updates its image reference, prompting Watchtower to pull the new image. 
 
     Watchtower then stops the existing container, and systemd automatically restarts it with the updated image.
-
+    {.power-number}
+    
     1. Create directories for configuration files if they don't exist:
 
         ```sh
