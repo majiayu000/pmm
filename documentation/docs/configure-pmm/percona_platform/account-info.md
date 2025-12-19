@@ -11,15 +11,5 @@
     **Need help?** Contact [Percona Support](https://www.percona.com/services/support) for migration assistance.
 
 
-When you connect your PMM instances to Percona Platform with a customer account, PMM reveals two new tabs on the main menu, where you can check all the information available for your customer accounts: **Entitlements** and **Support tickets**:
+When you connect your PMM instances to Percona Platform with a customer account, PMM reveals two new tabs on the main menu, where you can check all the information available for your customer accounts: **Entitlements** and **Support tickets**.
 
-![CustomerTickets](../../images/CustomerTickets.png)
-
-![CustomerEntitlements](../../images/CustomerEntitlements.png)
-
-
-When you connect your PMM instances to Percona Platform with a customer account, PMM  reveals two new tabs on the main menu, where you can check all the information available for your customer accounts:  **Entitlements** and **Support tickets**:
-
-![CustomerTickets](../../images/CustomerTickets.png)
-
-![CustomerEntitlements](../../images/CustomerEntitlements.png)
