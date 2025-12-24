@@ -3,7 +3,7 @@
 This dashboard shows a detailed overview of a single PostgreSQL instance, monitor its performance metrics, and dive deep into query activity.
 
 This is essential for database administrators who need to troubleshoot specific PostgreSQL services, analyze query performance, investigate connection issues, or monitor database activity patterns. 
-
+M
 Start here when you need to focus on one specific PostgreSQL instance, investigate slow queries, check connection usage, or analyze database-specific performance trends.
 
 ![!image](../../images/PMM_PostgreSQL_Instance_Summary.jpg)

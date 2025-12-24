@@ -35,15 +35,14 @@ PMM uses Grafana service account tokens for authentication. These tokens are ran
 Here's how to generate a service account token:
 {.power-number}
 
-1. Log into PMM.
-2. From the side menu, click **Administration > Users and access**.
-3. Click on the **Service accounts** card.
+1. Log in to PMM.
+2. From the side menu, click **Users and access > Service accounts**.
 4. Click **Add service account**. Specify a unique name for your service account, select a role from the drop-down menu, and click **Create** to display your newly created service account.
 5. Click **Add service account token**.
 6. In the pop-up dialog, provide a name for the new service token, or leave the field empty to generate an automatic name.
 7. Optionally, set an expiration date for the service account token. PMM cannot automatically rotate expired tokens, which means and you will need to manually [update the PMM-agent configuration file](../use/commands/pmm-agent.md) with a new service account token. Permanent tokens, on the other hand, remain valid indefinitely unless specifically revoked.
-8. Click **Generate Token**. A pop-up window will display the new token, which usually has a *glsa_* prefix.
-9. Copy your service token to the clipboard and store it securely.
+8. Click **Generate token**. A pop-up window will display the new token, which usually has a *glsa_* prefix.
+9. Click **Copy your service token to the clipboard** and store it securely.
 Now you can use your new service token for authentication in PMM API calls or in your [pmm-agent configuration](../use/commands/pmm-agent.md).
 
 ## Authenticate
